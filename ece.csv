@@ -1,0 +1,6 @@
+text,label
+"Congratulations! You've won a free ticket to the Bahamas!",spam
+"Reminder: Your appointment is scheduled for tomorrow at 10 AM.",ham
+"Urgent! Your account is about to expire. Renew now.",spam
+"Hi, just checking in to see how you're doing.",ham
+"Exclusive deal: Get 50% off on all products. Click now!",spam
